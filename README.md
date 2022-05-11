@@ -17,6 +17,10 @@
  Используемые таблицы - podio_payments и podio_hooks
 
 # Исходные таблицы:
+> Ссылка на исходные таблицы
+[Тестовое задание](https://drive.google.com/drive/folders/1DWIDav563XJetjCAMf8O9kWoXDqCnIGz)
+
+> Таблицы локально
 [hooks](data/podio_hooks_.csv)
 [payments](data/podio_payments.csv)
 
