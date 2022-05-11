@@ -21,7 +21,7 @@
 [Тестовое задание](https://drive.google.com/drive/folders/1DWIDav563XJetjCAMf8O9kWoXDqCnIGz)
 
 > Таблицы локально
-[hooks](data/podio_hooks_.csv)
+[hooks](data/podio_hooks_.csv),
 [payments](data/podio_payments.csv)
 
 # Результат
@@ -53,3 +53,9 @@ pip install pandas
 ```
 python app.py
 ```
+
+# UPD:
+## Дополнено решением с исопльзованием БД MSSQL
+> Дамп БД, сформированный из исходных csv-файлов [lumos22.sql](data/lumos22.sql)
+
+> Скрипт, содержащий SQL-запросы по каждому пункту задачи соответственно [query.sql](data/query.sql)
